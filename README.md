@@ -1,1 +1,2 @@
 # README-Assignment-2
+The python code attached will plot the graphs from task 4 with the original parameters. To get the plots for task 5, the Dx and Dy values were doubled and the code was executed to get the results. Dx,Dy were reverted back to their original values and vx was doubled then the code was executed. vx was then reverted back to the original value and k (decay) was halved then the code was executed. For task 6 the grid spacing is changed to nx=71, ny=71 and repeat the steps for task 5 with the new grid spacing.
